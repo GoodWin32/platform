@@ -1,2 +1,2 @@
 # platform
-Testing deploy.yml
+Testing updated ci.yml
